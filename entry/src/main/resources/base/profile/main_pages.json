@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/IndexPage",
+    "pages/SecondPage",
+
+    "pages/SignUpPage",
+    "pages/Index",
+    "pages/message",
+    "pages/search"
+  ]
+}
